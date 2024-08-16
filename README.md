@@ -1,4 +1,4 @@
-- :computer: Site Reliability and Platform Engineering at [Gousto 🥙](https://www.gousto.co.uk/raf/?promo_code=LAVAN43213072) 
+- :computer: Site Reliability and Platform Engineering at [Gousto🥙](https://www.gousto.co.uk) 
 
 - :hammer_and_wrench: Interested in Python, AWS, Kubernetes and CNCF projects
 
